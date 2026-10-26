@@ -5,7 +5,7 @@
 ### 🛠️ What I'm building
 - 🏨 **Hospitality + AI:** bots that handle guest chats and the boring parts of running stays, so hosts can focus on people.
 - 🧊 **[Nebula 3D](https://www.instagram.com/nebula3dlab/):** 3D printing lab, from idea to physical object.
-  - [`nebula-quote`](https://github.com/Brunoflor/nebula-quote): instant quotes for 3D prints.
+  - [`stl-platform`](https://github.com/Brunoflor/stl-platform): production cost calculator for any 3D project.
 - 🚁 **Drones:** I fly them, and I love where software meets hardware.
 
 ### ⚡ How I work
